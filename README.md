@@ -13,9 +13,6 @@ Welcome to the **Task List web application**!
 4. **User should be able to change the status of tasks**
 5. **User should be able to sort and filter tasks by team members, task type, status, date, entity name, contact person**
 
-## 🌐 Hosted URL
-
-Visit the hosted site [here](https://spyne-backend-jagruthvasa.onrender.com/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
