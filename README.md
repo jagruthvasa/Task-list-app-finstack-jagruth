@@ -51,7 +51,7 @@ Visit the hosted site [here](https://spyne-backend-jagruthvasa.onrender.com/).
 
 ## 📄 Detailed Project Description
 
-For a detailed overview of the project, please refer to the [Google Document](https://docs.google.com/document/d/1EoC0Aw8GZy-PU_Ck_HHQai9pRynQSER1FD5zpY6xePE/edit?usp=sharing).
+For a detailed overview of the project, please refer to the [Google Document](https://docs.google.com/document/d/1Z77kMx7SQpMBoM278IBbaoRVL4_Z_pBYAuW-zRBzLoU/edit?usp=sharing).
 
 
 <!-- CONTACT -->
