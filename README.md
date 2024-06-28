@@ -7,14 +7,11 @@ Welcome to the **Task List web application**!
 
 ## ✨ Features
 
-1. **User Signup:** Users can create an account.
-2. **Search Users:** Users can search for other users.
-3. **Create Posts:** Users can post text or a combination of image and text.
-4. **Engage with Posts:** Other users can comment on or like posts.
-5. **Like and Reply to Comments:** Users can like comments or reply to them.
-6. **Edit or Delete Posts:** Users can delete or modify their posts after posting.
-7. **Edit or Delete Comments:** Users can delete or modify their comments.
-8. **Search Posts by Hashtags:** Users can search for posts using hashtags.
+1. **User should be able to create tasks** 
+2. **User should be able to assign tasks to team members (contact person)** 
+3. **User should be able to edit existing tasks:**
+4. **User should be able to change the status of tasks**
+5. **User should be able to sort and filter tasks by team members, task type, status, date, entity name, contact person**
 
 ## 🌐 Hosted URL
 
